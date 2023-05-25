@@ -1,0 +1,27 @@
+{
+  "name": "random-msg-str-legui",
+  "version": "1.0.0",
+  "description": "Random String menssages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeguizamonD08/random-msg-str-legui.git"
+  },
+  "keywords": [],
+  "author": "Daniel Leguizamon <daneleguizamonromero@gmailcom>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeguizamonD08/random-msg-str-legui/issues"
+  },
+  "homepage": "https://github.com/LeguizamonD08/random-msg-str-legui#readme",
+  "bin": {
+    "random-msg-str-legui": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
